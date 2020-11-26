@@ -1,0 +1,2 @@
+poll SCM for every minute
+* * * * *
