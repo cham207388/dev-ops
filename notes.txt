@@ -3,3 +3,18 @@
 3. use chron:
     * * * * *
 
+Jenkins Maven Integration
+
+Global tool configuration
+    add java:
+        run echo $JAVA_HOME
+        copy and paste the content in jenkins
+    add maven:
+        run echo $M2_HOME
+        copy and paste the content in jenkins
+    Apply and Save
+
+Jenkins Continuous Integration - Checkstyle Code Analysis
+
+Creating a Maven project
+    and clean install
