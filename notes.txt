@@ -18,3 +18,5 @@ Jenkins Continuous Integration - Checkstyle Code Analysis
 
 Creating a Maven project
     and clean install
+    it build successfully the first time.
+    I want it to auto build and send me a notification
