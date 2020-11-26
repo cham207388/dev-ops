@@ -1,3 +1,5 @@
-poll SCM for every minute
-* * * * *
-The build was triggered on the previous commit
+1. A freestyle project
+2. poll SCM for every minute on Build Trigger
+3. use chron:
+    * * * * *
+
